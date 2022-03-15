@@ -1,0 +1,14 @@
+﻿{
+  "Id": "a2-8XClxNEC609wWaQEG_Q",
+  "Reference": "kXGBEmte4EyMvfa4a95HDw/a2-8XClxNEC609wWaQEG_Q",
+  "ParentRef": "kXGBEmte4EyMvfa4a95HDw/Je6ytuAU20mdv8nzXfaX8g",
+  "Name": "Welcome to",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-02-21T09:24:29.2443769Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-21T09:24:29.2443769Z"
+}

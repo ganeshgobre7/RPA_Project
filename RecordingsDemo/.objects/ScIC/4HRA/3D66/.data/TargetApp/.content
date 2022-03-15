@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="wKunSv7qTkexIPnPx4bkWg" Selector="&lt;html app='chrome.exe' title='Facebook – log in or sign up'/&gt;" Url="https://www.facebook.com/" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0umTjoWFGjUOmL1seZC6l9Q</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="5549db64f4c5d50f17f74472a9d56641.png" xmlns="">0TCWMnUog60Wsj52qfnXbbA</imageRef>
+</TargetApp>

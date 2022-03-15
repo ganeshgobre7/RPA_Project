@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://accounts.google.com/signin/v2/identifier?hl=en&amp;continue=https%3A%2F%2Fwww.google.com%3Fhl%3Den-US&amp;ec=GAlA8wE&amp;flowName=GlifWebSignIn&amp;flowEntry=AddSession" ContentHash="QusV2rZs_U-2L9gaUxRqhA" DesignTimeRectangle="820, 581, 31, 20" ElementType="Text" FriendlyName="'Next'" FullSelectorArgument="&lt;webctrl parentid='identifierNext' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='identifierNext' tag='SPAN' type='' aaname='Next' check:text='Next' /&gt;" Guid="131dce55-7494-44f7-9fae-7c63595c5591" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in - Google Accounts' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=mscorlib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <TargetAnchorable.Anchors>
+    <scg:List x:TypeArguments="ITarget" Capacity="4">
+      <Target DesignTimeRectangle="796, 573, 79, 36" ElementType="Button" FriendlyName="'Next'" FullSelectorArgument="&lt;webctrl parentid='identifierNext' tag='BUTTON' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid='identifierNext' tag='BUTTON' type='button' aaname='Next' check:text='Next' /&gt;" SearchSteps="FuzzySelector, Image">
+        <imageRef attrName="ImageBase64" xmlns="">1ay7pbjM4eEOHvuNkST0KYA</imageRef>
+      </Target>
+    </scg:List>
+  </TargetAnchorable.Anchors>
+  <imageRef attrName="ImageBase64" xmlns="">0QZ2RvXArukmzLZjzcvP8tw</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="7014848fc5ef7e371efebc50134f285c.png" xmlns="">0C1zMvB7_NE-JZWnc5WiaxA</imageRef>
+</TargetAnchorable>

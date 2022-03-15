@@ -1,0 +1,14 @@
+﻿{
+  "Id": "_rhTGtqtx0KCtbim6O7SaQ",
+  "Reference": "kXGBEmte4EyMvfa4a95HDw/_rhTGtqtx0KCtbim6O7SaQ",
+  "ParentRef": "kXGBEmte4EyMvfa4a95HDw/Je6ytuAU20mdv8nzXfaX8g",
+  "Name": "Gmail",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Created": "2022-02-21T09:09:51.089752Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-21T09:09:51.089752Z"
+}

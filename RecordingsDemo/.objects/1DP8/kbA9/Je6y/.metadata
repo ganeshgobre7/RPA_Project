@@ -1,0 +1,13 @@
+﻿{
+  "Id": "Je6ytuAU20mdv8nzXfaX8g",
+  "Reference": "kXGBEmte4EyMvfa4a95HDw/Je6ytuAU20mdv8nzXfaX8g",
+  "ParentRef": "kXGBEmte4EyMvfa4a95HDw/kbA9ISw8aEuputnm2MnrMg",
+  "Name": "Chrome: Sign in - Google Accounts",
+  "Type": "Screen",
+  "Created": "2022-02-21T09:07:18.1878866Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-21T09:07:18.1878866Z"
+}

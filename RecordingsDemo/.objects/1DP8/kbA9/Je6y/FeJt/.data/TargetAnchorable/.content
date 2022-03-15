@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://mail.google.com/mail/u/2/?ogbl#inbox" ContentHash="jBP4nPar-0qWWQxOYu9P0g" DesignTimeRectangle="238, 212, 1085, 525" FriendlyName="'ConversationsPrimarySoc…'" FullSelectorArgument="&lt;webctrl id=':3' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl id=':3' tag='DIV' type='' aaname='' check:text='ConversationsPrimarySocialPromotions Get started with GmailCustomize your inboxChange profile' /&gt;" Guid="a5ec6be6-0fbd-4e6a-b42b-cfc3cb9122e6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inbox (3) - ggobre81@gmail.com - Gmail' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">039XyLQ-3qUKPIPVboZ2fOg</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="c6998bbb3c0a4b069de52e6ab695dffc.png" xmlns="">0TGjNp7egKEmrGz523ldjYw</imageRef>
+</TargetAnchorable>

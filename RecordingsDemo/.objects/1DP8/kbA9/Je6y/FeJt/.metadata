@@ -1,0 +1,14 @@
+﻿{
+  "Id": "FeJtvw29zkaF5F1_tMxD0w",
+  "Reference": "kXGBEmte4EyMvfa4a95HDw/FeJtvw29zkaF5F1_tMxD0w",
+  "ParentRef": "kXGBEmte4EyMvfa4a95HDw/Je6ytuAU20mdv8nzXfaX8g",
+  "Name": "ConversationsPrimarySoc…",
+  "Type": "Element",
+  "TaxonomyType": "None",
+  "Created": "2022-02-21T09:17:10.1745807Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=21.10.5.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=21.10.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2022-02-21T09:17:10.1745807Z"
+}

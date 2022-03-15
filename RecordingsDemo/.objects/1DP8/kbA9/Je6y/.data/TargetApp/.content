@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetApp Area="0, 0, 0, 0" BrowserType="Chrome" ContentHash="WiHl0iogOk65etHVQlR7Kg" Selector="&lt;html app='chrome.exe' title='Inbox (3) - ggobre81@gmail.com - Gmail'/&gt;" Url="https://mail.google.com/mail/u/2/?ogbl#inbox" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="IconBase64" xmlns="">0LB-AuCKrhk--UXvAicleSA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="55c90ff284a85015b8032ed9fa760bc0.png" xmlns="">0WZes_vEyM0mnCDnKhJwj3g</imageRef>
+</TargetApp>

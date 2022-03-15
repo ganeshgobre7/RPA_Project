@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://mail.google.com/mail/u/2/?ogbl#inbox" ContentHash="YO-XEtmtr0eYxMaJObxTIg" DesignTimeRectangle="487, 454, 359, 15" ElementType="Text" FriendlyName="'Welcome to'" FullSelectorArgument="&lt;webctrl parentid=':2q' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl parentid=':2q' tag='SPAN' type='' aaname='Welcome to your free UiPath Automation Cloud for community' check:text='Welcome to your free UiPath Automation Cloud for community' /&gt;" Guid="ea980cea-73b6-4e4c-82fc-57d03afe87cc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Inbox (1) - ggobre81@gmail.com - Gmail' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">0dkA0j5yE90Sej1_GRSayNA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="2f24893d3bc50692d1d34e5313028ada.png" xmlns="">0IVQJh8Arg0-f6RGxNCs5OQ</imageRef>
+</TargetAnchorable>

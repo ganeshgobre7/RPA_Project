@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://www.google.com/?hl=en-US&amp;authuser=2" ContentHash="lvoV_wCy0k2BXk3HB2bFDw" DesignTimeRectangle="1183, 127, 31, 22" ElementType="Text" FriendlyName="'Gmail'" FullSelectorArgument="&lt;webctrl tag='A' /&gt;" FuzzySelectorArgument="&lt;webctrl tag='A' type='' aaname='Gmail' check:text='Gmail' /&gt;" Guid="77dae239-a7fe-4cc6-857c-f1e751394033" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">04awzOapN5kqZpJTbi084vA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="8fa53ba15c06e532d033ece6b34a27a4.png" xmlns="">0VAl4diLbAUGzV-iWcswmag</imageRef>
+</TargetAnchorable>

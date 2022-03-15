@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-16"?>
+<TargetAnchorable BrowserURL="https://accounts.google.com/signin/v2/identifier?hl=en&amp;continue=https%3A%2F%2Fwww.google.com%3Fhl%3Den-US&amp;ec=GAlA8wE&amp;flowName=GlifWebSignIn&amp;flowEntry=AddSession" ContentHash="3iQXNJgMVUeZpOVgCq9Ilg" DesignTimeRectangle="796, 573, 79, 36" FriendlyName="'DIV'" FullSelectorArgument="&lt;webctrl idx='3' isleaf='1' parentid='identifierNext' tag='DIV' /&gt;" FuzzySelectorArgument="&lt;webctrl type='' isleaf='1' parentid='identifierNext' tag='DIV' aaname='' /&gt;" Guid="c5495a03-7859-4e1f-8b96-8a5ac41b8de3" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in - Google Accounts' /&gt;" SearchSteps="FuzzySelector, Image" xmlns="http://schemas.uipath.com/workflow/activities/uix">
+  <imageRef attrName="ImageBase64" xmlns="">06jrQSbPTkUikuKL3JrxEdA</imageRef>
+  <imageRef attrName="InformativeScreenshot" originalValue="00d3e052700ce70b351b8853908fa11f.png" xmlns="">0qIEKuNOR2UihRv-yOjsPcw</imageRef>
+</TargetAnchorable>
